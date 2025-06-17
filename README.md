@@ -4,6 +4,8 @@ Este projeto demonstra a utilização do FreeRTOS em uma placa baseada no **RP20
 O sistema gerencia um **LED RGB**, uma **matriz de LEDs NeoPixel**, um **buzzer**, um **display OLED** e a leitura de **botões**, com cada periférico sendo controlado por sua própria **tarefa dedicada**.
 
 ---
+# Link do video demonstrativo:
+https://youtube.com/shorts/qWdWqN4vxJE
 
 ## 🧠 Arquitetura do Software
 
